@@ -1,0 +1,14 @@
+name = "Terralith"
+filename = "Terralith_1.19.3_v2.3.11.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6453612bbcd341b3d72aa24323af1fa55dd87122"
+
+[update]
+[update.curseforge]
+file-id = 4720174
+project-id = 513688

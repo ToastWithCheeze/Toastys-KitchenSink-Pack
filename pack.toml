@@ -1,0 +1,13 @@
+name = "Toastys Kitchen Sink Pack"
+author = "Toasty"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c681bcc2079411191b7c72b9373f52dc7fda8d0d704c17e2e67561f605a7c41"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"
